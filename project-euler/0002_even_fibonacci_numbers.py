@@ -1,6 +1,3 @@
-import math
-
-
 x1 = 0
 x2 = 1
 s = 0

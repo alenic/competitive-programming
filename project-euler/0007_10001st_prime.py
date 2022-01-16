@@ -1,5 +1,5 @@
 from euler_utils import *
-count = 1 # because of 2
+count = 1
 n = 1
 while True:
     n += 2

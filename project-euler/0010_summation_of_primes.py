@@ -1,5 +1,6 @@
 from euler_utils import *
-sum_primes = 2 # because of 2
+
+sum_primes = 2
 n = 1
 while n <= 2e6:
     n += 2
