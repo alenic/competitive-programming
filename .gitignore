@@ -1,0 +1,4 @@
+*.pyc
+*.out
+*.exe
+__pycache__
